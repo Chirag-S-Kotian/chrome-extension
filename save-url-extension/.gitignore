@@ -9,6 +9,7 @@
 # testing
 /coverage
 
+/serviceAccountKey
 # next.js
 /.next/
 /out/
