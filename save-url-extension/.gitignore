@@ -9,7 +9,8 @@
 # testing
 /coverage
 
-/serviceAccountKey
+
+
 # next.js
 /.next/
 /out/
@@ -28,6 +29,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+/serviceAccountKey.json
 
 # vercel
 .vercel
