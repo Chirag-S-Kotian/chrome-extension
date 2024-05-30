@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Save URL Extension",
     "version": "1.0",
-    "permissions": ["activeTab", "storage"],
+    "permissions": ["activeTab", "storage", "tabs", "http://localhost:3000/"],
     "background": {
       "service_worker": "background.js"
     },
