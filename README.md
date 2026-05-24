@@ -92,4 +92,3 @@ If you have any questions or feedback, feel free to contact us at [your-email@ex
 ---
 
 Thank you for using SAV-URL!
-```
