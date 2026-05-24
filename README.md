@@ -1,6 +1,7 @@
 
 
 
+
 # SAV-URL Chrome Extension
 
 SAV-URL is a powerful Chrome extension built using Polymath AI, Next.js, and Firebase. It allows users to save URLs and manage their bookmarks efficiently with advanced AI features.
